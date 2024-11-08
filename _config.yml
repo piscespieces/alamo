@@ -1,0 +1,12 @@
+url: 'https://thealamo.studio'
+baseurl: '/'
+title: 'THe Alamo Studio'
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - yarn.lock
